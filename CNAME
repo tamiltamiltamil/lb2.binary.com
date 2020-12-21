@@ -1,0 +1,15 @@
+<html>
+
+<body>
+
+  <p>Before the script...</p>
+
+  <script>
+    alert( 'take over by tamil' );
+  </script>
+
+  <p>...After the script.</p>
+
+</body>
+
+</html>
